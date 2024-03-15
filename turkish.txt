@@ -299,27 +299,27 @@ AllGenerals = All Generals
 
 MilitaryAcademyForGeneralsMaximumLevel = Military Academy for Generals Maximum Level
 MaximumLevelOfTheMilitaryAcademyForGenerals = Maximum Level of the Military Academy for Generals
-MaximumLevel = Maximum Level
+MaximumLevel = Maksimum Seviye
 
-SupremeCourt = Supreme Court
-MaximumLevelOfTheSupremeCourt = Maximum Level of the Supreme Court
-UpgradeSupremeCourt = Upgrade Supreme Court
-UpgradeTheSupremeCourtLevelToReduceCorruption = Upgrade the Supreme Court level to reduce Corruption
+SupremeCourt = Yüksek Mahkeme
+MaximumLevelOfTheSupremeCourt = Yüksek Mahkemenin Maksimum Seviyesi
+UpgradeSupremeCourt = Yüksek Mahkemeyi Yükseltin
+UpgradeTheSupremeCourtLevelToReduceCorruption = Yolsuzluğu azaltmak için Yüksek Mahkeme seviyesini yükseltin
 
-CorruptionPerLevel = Corruption per Level
+CorruptionPerLevel = Seviye başına Yolsuzluk
 
-MaximumLevelOfTheNuclearReactor = Maximum Level of the Nuclear Reactor
-UpgradeNuclearReactor = Upgrade Nuclear Reactor
+MaximumLevelOfTheNuclearReactor = Nükleer Reaktörün Maksimum Seviyesi
+UpgradeNuclearReactor = Nükleer Reaktörü Yükseltin
 
-CapitalCity = Capital City
-UpgradeCapitalCity = Upgrade Capital City
-MaximumLevelOfCapitalCity = Maximum Level of Capital City
+CapitalCity = Başkent
+UpgradeCapitalCity = Başkenti Yükselt
+MaximumLevelOfCapitalCity = Maksimum Başkent Seviyesi
 
-SmallVillage = Small Village
-Village = Village
-Town = Town
-City = City
-MajorCity = Major City
+SmallVillage = Köyaltı Yerleşke
+Village = Köy
+Town = Kasaba
+City = Şehir
+MajorCity = Büyük Şehir
 
 AtomicBombCost = Atomic Bomb Cost
 AtomicBombCostPerLevel = Atomic Bomb Cost per Level
