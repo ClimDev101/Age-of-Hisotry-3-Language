@@ -117,7 +117,7 @@ XPerMonth = {0} aylık
 XPerYear = {0} yıllık
 
 UncolonizedLand = Sömürgeleştirilmemiş Toprak
-ProvinceMustBeUncolonized = Vilayet sömürgeleştirilmemelidir
+ProvinceMustBeUncolonized = Vilayet sömürgeleştirilmemiş olmalı
 SettlementProgress = Yerleşim İlerlemesi
 
 Settler = Yerleşimci
@@ -137,7 +137,7 @@ ReligionConversionProgress = Din Dönüşümü İlerlemesi
 DifferentReligion = Farklı Din
 DemandReligionConversion = Din Dönüşümü Talep Edin
 
-NonCoreProvince = Çekirdek Olmayan Vilayet
+NonCoreProvince = Merkeze Bağlanmayan Vilayet
 
 BattlePosition = Savaş pozisyonu
 
@@ -193,112 +193,112 @@ ProvinceInWhichTheArmyWillBeStationed = Ordunun konuşlandırılacağı bölge
 BattleTactics = Savaş Taktikleri
 BattleTacticsDesc = Savaş sırasında silahlı kuvvetler tarafından düşmanı alt etmek ve savaş alanında avantaj elde etmek için kullanılan stratejik yöntemler ve manevralar.
 
-CarefulAdvance = Tedbirli İlerleme
-DefensiveHold = Savunma Beklemesi
-StraightCharge = Straight Charge
-FlankingManeuver = Flanking Maneuver
+CarefulAdvance = Tedbirli İlerle
+DefensiveHold = Savunmada Bekle
+StraightCharge = Doğrudan Taruz
+FlankingManeuver = Kanatlardan Manevra
 
-Warrior = Warrior
-LightFootmen = Light Footmen
-Knight = Knight
-EliteKnight = Elite Knight
-Infantry = Infantry
-EliteInfantry = Elite Infantry
-LineInfantry = Line Infantry
-EliteLineInfantry = Elite Line Infantry
-EarlyTrenchInfantry = Early Trench Infantry
-TrenchInfantry = Trench Infantry
-ModernInfantry = Modern Infantry
-FutureInfantry = Future Infantry
+Warrior = Onurlu Savaşçı
+LightFootmen = Hafif Piyade
+Knight = Şövalye
+EliteKnight = Elit Şövalye
+Infantry = Piyade
+EliteInfantry = Elit Piyade
+LineInfantry = Hat Piyadesi
+EliteLineInfantry = Elit Hat Piyadesi
+EarlyTrenchInfantry = Erken Dönem Siper Piyadesi
+TrenchInfantry = Siper Piyadesi
+ModernInfantry = Modern Piyade
+FutureInfantry = Gelecek Piyade
 
-Swordsman = Swordsman
-EliteSwordsman = Elite Swordsman
+Swordsman = Kılıç Ustası
+EliteSwordsman = Elit Kılıç Ustası
 
-Hoplites = Hoplites
-Spearmen = Spearmen
-EliteSpearmen = Elite Spearmen
-Pikeman = Pikeman
-ElitePikeman = Elite Pikeman
-Musketeer = Musketeer
-Riflemen = Riflemen
-HeavyInfantry = Heavy Infantry
-MechanizedInfantry = Mechanized Infantry
-ModernMechanizedInfantry = Modern Mechanized Infantry
-FutureMechanizedInfantry = Future Mechanized Infantry
+Hoplites = Hoplitler
+Spearmen =  Mızrakçı
+EliteSpearmen = Elit Mızrakçı
+Pikeman = Uzun Mızrakçı
+ElitePikeman = Elit Uzun Mızrakçı
+Musketeer = Silahşör
+Riflemen = Tüfekçiler
+HeavyInfantry = Ağır Piyade
+MechanizedInfantry = Mekanize Piyade
+ModernMechanizedInfantry = Modern Mekanize Piyade
+FutureMechanizedInfantry = Gelecek Mekanize Piyade
 
-MachineGunner = Machine Gunner
-Grenadier = Grenadier
-EliteGrenadier = Elite Grenadier
+MachineGunner = Makineli Tüfekçi
+Grenadier = Bombacı
+EliteGrenadier = Elit Bombacı
 
-Catapult = Catapult
-Trebuchet = Trebuchet
-Canon = Canon
-FieldCannon = Field Cannon
-Artillery = Artillery
-ModernArtillery = Modern Artillery
-FutureArtillery = Future Artillery
-MultipleLaunchRocketSystem = Multiple Launch Rocket System
-Howitzer = Howitzer
-ModernHowitzer = Modern Howitzer
+Catapult =  Hafif Mancınık
+Trebuchet = Ağır Mancınık
+Canon = Top
+FieldCannon = Saha Topu
+Artillery = Topçu
+ModernArtillery = Modern Topçu
+FutureArtillery = Gelecek Topçu
+MultipleLaunchRocketSystem = Çoklu Namlulu Roketatar
+Howitzer = Obüs
+ModernHowitzer = Modern Obüs
 
-Chariot = Chariot
-Horseman = Horseman
-EliteHorseman = Elite Horseman
-Cavalry = Cavalry
-EarlyCavalry = Early Cavalry
-EliteCavalry = Elite Cavalry
-HeavyCavalry = Heavy Cavalry
+Chariot = Savaş Arabası
+Horseman = Atlı Birlik
+EliteHorseman = Elit Atlı Birlik
+Cavalry = Süvari
+EarlyCavalry = Erken Dönem Süvari
+EliteCavalry = Elit Süvari
+HeavyCavalry = Ağır Süvari
 
 Tank = Tank
-EarlyTank = Early Tank
-MediumTank = Medium Tank
-HeavyTank = Heavy Tank
+EarlyTank = Erken Dönem Tank
+MediumTank = Orta Tank
+HeavyTank = Ağır Tank
 ModernTank = Modern Tank
-MainBattleTank = Main Battle Tank
-FutureTank = Future Tank
+MainBattleTank = Ana Muharebe Tankı
+FutureTank = Gelecek Tankı
 
-Slinger = Slinger
-Archer = Archer
-HorseArcher = Horse Archer
-Bowmen = Bowmen
-Crossbowman = Crossbowman
-EliteCrossbowman = Elite Crossbowman
+Slinger = Sapancı
+Archer = Okçu
+HorseArcher = Atlı Okçu
+Bowmen = Tatar Yaylı
+Crossbowman = Arbaletçi
+EliteCrossbowman = Elit Arbaletçi
 
-EarlyFighter = Early Fighter
-Fighter = Fighter
-ModernFighter = Modern Fighter
-FutureFighter = Future Fighter
-EarlyBomber = Early Bomber
-Bomber = Bomber
-Drone = Drone
-FutureDrone = Future Drone
+EarlyFighter = Erken Savaşçı
+Fighter = Savaşçı
+ModernFighter = Modern Savaşçı
+FutureFighter = Gelecek Savaşçı
+EarlyBomber = ERken Dönem Bombardıman Uçağı
+Bomber = Bombardıman Uçağı
+Drone = Siha
+FutureDrone = Gelecek Siha
 
 General = General
-Generals = Generals
-NoGeneral = No General
-NoGenerals = No Generals
-DateOfBirth = Date of birth
-RecruitGeneral = Recruit General
-SelectGeneralToRecruit = Select General to recruit
-AssignGeneralToThisUnit = Assign General to this unit
-AssignGeneral = Assign General
-UnassignedGenerals = Unassigned Generals
-GeneralCost = General Cost
-GeneralsCommandingArmies = Generals commanding armies
+Generals = Generaller
+NoGeneral = General Yok
+NoGenerals = Hiç General Yok
+DateOfBirth = Doğum tarihi
+RecruitGeneral = General İşe Alım
+SelectGeneralToRecruit = İşe almak için General'i seçin
+AssignGeneralToThisUnit = Bu birime General atayın
+AssignGeneral = General Ata
+UnassignedGenerals = Atanmamış Generaller
+GeneralCost = General Maliyeti
+GeneralsCommandingArmies = Ordulara komuta eden generaller
 
-LackOfGeneral = Lack of General
-TheFollowingUnitsDontHaveAGeneral = The following units don't have a General
-GeneralDied = General Died
+LackOfGeneral = General eksikliği
+TheFollowingUnitsDontHaveAGeneral = Aşağıdaki birimlerin Generali yoktur
+GeneralDied = General Öldü
 
-SelectArmy = Select Army
+SelectArmy = Orduyu Seç
 
-MilitaryAcademyForGenerals = Military Academy for Generals
-MilitaryAcademyForGeneralDesc = Trains top military Generals in advanced leadership, strategy and tactics.
-UpgradeMilitaryAcademyForGenerals = Upgrade Military Academy for Generals
-AllGenerals = All Generals
+MilitaryAcademyForGenerals = Generaller için Harp Akademisi
+MilitaryAcademyForGeneralDesc = Üst düzey askeri generalleri; ileri düzey liderlik, strateji ve taktikler konusunda eğitir.
+UpgradeMilitaryAcademyForGenerals = Generaller için Askeri Akademiyi Yükselt
+AllGenerals = Tüm Generaller
 
-MilitaryAcademyForGeneralsMaximumLevel = Military Academy for Generals Maximum Level
-MaximumLevelOfTheMilitaryAcademyForGenerals = Maximum Level of the Military Academy for Generals
+MilitaryAcademyForGeneralsMaximumLevel = Harp Akademisi Generaller için Maksimum Seviyede
+MaximumLevelOfTheMilitaryAcademyForGenerals = Maksimum Seviye Generaller için Harp Akademisi
 MaximumLevel = Maksimum Seviye
 
 SupremeCourt = Yüksek Mahkeme
@@ -315,44 +315,44 @@ CapitalCity = Başkent
 UpgradeCapitalCity = Başkenti Yükselt
 MaximumLevelOfCapitalCity = Maksimum Başkent Seviyesi
 
-SmallVillage = Köyaltı Yerleşke
+SmallVillage = Köyaltı Yerleşkesi
 Village = Köy
 Town = Kasaba
 City = Şehir
 MajorCity = Büyük Şehir
 
-AtomicBombCost = Atomic Bomb Cost
-AtomicBombCostPerLevel = Atomic Bomb Cost per Level
+AtomicBombCost = Atom Bombası Maliyeti
+AtomicBombCostPerLevel = Seviye Başına Atom Bombası Maliyeti
 
-MonthlyIncomePerLevel = Monthly Income per Level
-InfrastructureCostPerLevel = Infrastructure Cost per Level
-ProductionEfficiencyPerLevel = Production Efficiency per Level
+MonthlyIncomePerLevel = Seviye Başına Aylık Gelir
+InfrastructureCostPerLevel = Seviye Başına Altyapı Maliyeti
+ProductionEfficiencyPerLevel = Seviye Başına Üretim Verimliliği
 
-GeneralAttack = Attack of the General
-GeneralDefense = Defense of the General
+GeneralAttack = Generalin saldırısı
+GeneralDefense = Generalin Savunması
 
-GeneralsAttack = Generals Attack
-GeneralsDefense = Generals Defense
+GeneralsAttack = Generallerin saldırısı
+GeneralsDefense = Generallerin Savunması
 
-GeneralsAttackPerLevel = Generals Attack per Level
-GeneralsDefensePerLevel = Generals Defense per Level
+GeneralsAttackPerLevel = Seviye Başına General Saldırısı
+GeneralsDefensePerLevel = Seviyeye Başına General Savunması
 
-MilitaryAcademy = Military Academy
-MilitaryAcademyDesc = Military Academy trains units in combat, tactics, and strategy.
-MaximumLevelOfTheMilitaryAcademy = Maximum Level of the Military Academy
+MilitaryAcademy = Harp Akademisi
+MilitaryAcademyDesc = Harp Akademisi; birimleri savaş, taktik ve strateji konularında eğitir.
+MaximumLevelOfTheMilitaryAcademy = Harp Okulunun Maksimum Seviyesi
 
-UpgradeMilitaryAcademy = Upgrade Military Academy
+UpgradeMilitaryAcademy = Harp Akademiyi Yükselt
 
-UnitsDefense = Units Defense
-UnitsAttack = Units Attack
+UnitsDefense = Birim Savunması
+UnitsAttack = Birim Saldırısı
 
-UnitsDefensePerLevel = Units Defense per Level
-UnitsAttackPerLevel = Units Attack per Level
+UnitsDefensePerLevel = Seviye Başına Birim Savunması
+UnitsAttackPerLevel = Seviye Başına Birim Saldırısı
 
-Siege = Siege
-SiegeProgress = Siege Progress
-SiegeEffectiveness = Siege Effectiveness
-DailySiegeProgress = Daily Siege Progress
+Siege = Kuşatma
+SiegeProgress = Kuşatma İlerlemesi
+SiegeEffectiveness = Kuşatma Etkinliği
+DailySiegeProgress = Günlük Kuşatma İlerlemesi
 AfterASuccessfulSiegeAllNeighboringProvincesWithoutDefensiveBuildingsWillBeOccupied = After a successful siege, Civilization will loot province and all neighboring provinces without Defensive buildings will be occupied. This reflects the strategic importance of forts and the domino effect a successful siege can have on a region.
 SiegeOf = Siege of {0}
 MaximumSiegeTime = Maximum siege time
