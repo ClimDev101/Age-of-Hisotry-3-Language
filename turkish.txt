@@ -2,7 +2,7 @@ Search = Ara
 Generate = Oluştur
 Group = Grup
 
-Ruler = İdareci
+Ruler = Hükümdar
 Heir = Varis
 
 Council = Meclis
