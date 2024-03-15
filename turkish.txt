@@ -3,7 +3,7 @@ Generate = Oluştur
 Group = Grup
 
 Ruler = Hükümdar
-Heir = Varis
+Heir = Veliaht
 
 Council = Meclis
 Theocracy = Teokrasi
@@ -172,29 +172,29 @@ BattleWidthRefersToTheNumberOfUnitsThatCanBeDeployedInAFormationOnTheBattlefield
 Discipline = Disiplin
 DisciplineSignifiesOrganizationAndCoordinationOfTheArmyInBattleIncreasingUnitsAttack = Disiplin, savaşta ordunun organizasyonunu ve koordinasyonunu, birimlerin saldırısını artırmayı ifade eder.
 
-ManpowerRecoveryFromADisbandedArmy = Manpower recovery from a disbanded Army
+ManpowerRecoveryFromADisbandedArmy = Dağılmış bir ordudan insan gücü geri kazanımı
 
-WaitingForOrders = Waiting for orders
-Moving = Moving
-MovingTo = Moving to
-StopMovementOfTheArmy = Stop movement of the Army
+WaitingForOrders = Emir bekliyorum
+Moving = Hareket et
+MovingTo = Taşın
+StopMovementOfTheArmy = Ordunun hareketini durdur
 
-Mercenaries = Mercenaries
-RecruitMercenaries = Recruit Mercenaries
-HireMercenaries = Hire Mercenaries
-Hire = Hire
-Hired = Hired
+Mercenaries = Paralı askerler
+RecruitMercenaries = Paralı Askerleri İşe Al
+HireMercenaries = Paralı Askerler Kirala
+Hire = Kirala
+Hired = Kiralanmış
 
-CreateNewArmy = Create new Army
-CreateArmy = Create Army
-Composition = Composition
-ProvinceInWhichTheArmyWillBeStationed = Province in which the Army will be stationed
+CreateNewArmy = Yeni Ordu Oluştur
+CreateArmy = Ordu Oluştur
+Composition = Birleştir
+ProvinceInWhichTheArmyWillBeStationed = Ordunun konuşlandırılacağı bölge
 
-BattleTactics = Battle Tactics
-BattleTacticsDesc = Strategic methods and maneuvers used by armed forces during combat to outmaneuver the enemy and gain an advantage on the battlefield.
+BattleTactics = Savaş Taktikleri
+BattleTacticsDesc = Savaş sırasında silahlı kuvvetler tarafından düşmanı alt etmek ve savaş alanında avantaj elde etmek için kullanılan stratejik yöntemler ve manevralar.
 
-CarefulAdvance = Careful Advance
-DefensiveHold = Defensive Hold
+CarefulAdvance = Tedbirli İlerleme
+DefensiveHold = Savunma Beklemesi
 StraightCharge = Straight Charge
 FlankingManeuver = Flanking Maneuver
 
