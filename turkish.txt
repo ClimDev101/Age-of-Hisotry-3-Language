@@ -36,7 +36,7 @@ DeathOfALeader = Bir Liderin Ölümü
 AllCharactersLifeExpectancy = Tüm karakterlerin yaşam beklentisi
 
 ClickToCancel = İptal etmek için tıklayın
-SaveName = Adı Kaydet
+SaveName = Kayıt Adı
 Overwrite = Üzerine yaz
 
 SteamWorkshop = Steam Atölyesi
@@ -44,7 +44,7 @@ SubmitYourModsToTheSteamWorkshop = Modlarınızı Steam Atölyesine gönderin
 Publish = Yayınla
 UploadedSuccessfully = Başarıyla yüklendi
 
-AfterClickingTheGameFreezesAndAllFilesAreTransferredJustWait = Tıkladıktan sonra oyun donuyor ve tüm dosyalar aktarılıyor. Sadece bekle!
+AfterClickingTheGameFreezesAndAllFilesAreTransferredJustWait = Tıkladıktan sonra oyun donar ve tüm dosyalar aktarılır. Sadece bekle!
 
 AdministrativeAdvisor = İdari Danışman
 EconomicAdvisor = Ekonomik Danışman
@@ -95,7 +95,7 @@ ArmyMovementSpeed = Ordu Hareket Hızı
 AttackRange = Saldırı Menzili
 Morale = Moral
 MoraleOfArmy = Ordunun Morali
-ArmyMoraleOnTheBattlefield = Savaş Alanında Ordunun Morali
+ArmyMoraleOnTheBattlefield = Muharebe Alanındaki Ordunun Morali
 
 ClickToRecruit = Yetiştirmek için tıklayın
 ShiftClickToRecruitXRegiments = {0} Alayı askere almak için Shift'e basılı tutarak tıkla
@@ -110,14 +110,14 @@ RecruitRegiments = Alayları Askere Al
 RecruitmentTime = Asker Toplama Süresi
 TheArmyWillBeDeployedToThisLocation = Ordu bu bölgeye konuşlandırılacak
 MaintenanceCost = Bakım maliyeti
-XDays = {0,choice,1#{0} Day|1<{0,number,integer} Days}
+XDays = {0,choice,1#{0} Gün|1<{0,number,integer} Gün}
 Day = Gün
 XPerDay = {0} günlük
 XPerMonth = {0} aylık
 XPerYear = {0} yıllık
 
-UncolonizedLand = Sömürgeleştirilmemiş Toprak
-ProvinceMustBeUncolonized = Vilayet sömürgeleştirilmemiş olmalı
+UncolonizedLand = Kolonize Edilmemiş Toprak
+ProvinceMustBeUncolonized = Vilayet Kolonize Edilmemiş olmalı
 SettlementProgress = Yerleşim İlerlemesi
 
 Settler = Yerleşimci
@@ -128,18 +128,18 @@ ThePopulationOfTheProvinceWillBeEqualToTheNumberOfSettlers = Vilayetin nüfusu Y
 EstablishSettlement = Yerleşim Kur
 SettlementEstablished = Yerleşim Kuruldu
 
-ColonizationTutorialText = Bir yerleşim kurmak için öncelikle kolonizasyon teknolojisinin kilidinin açılması ve yasanın Kolonizasyona izin veren bir kanunla değiştirilmesi gerekir. Yerleşimci birimi oluşturulmalı ve sömürgeleştirilmemiş bir eyalete taşınmalıdır; burada kolonizasyon, aktif birimler görünümünde yerleşimciye tıklanarak başlatılır.
+ColonizationTutorialText = Bir yerleşim kurmak için öncelikle kolonizasyon teknolojisinin kilidinin açılması ve yasanın Kolonizasyona izin veren bir kanunla değiştirilmesi gerekir. Yerleşimci birimi oluşturulmalı ve Yerleşilmemiş bir eyalete taşınmalıdır; burada kolonizasyon, aktif birimler görünümünde yerleşimciye tıklanarak başlatılır.
 
-ConvertReligion = Dini Dönüştür
-ReligionConversionCost = Din Dönüştürme Maliyeti
-ReligionConversionTime = Din Dönüştürme Süresi
-ReligionConversionProgress = Din Dönüşümü İlerlemesi
+ConvertReligion = Dini Değiştir
+ReligionConversionCost = Din Değiştirme Maliyeti
+ReligionConversionTime = Din Değiştirme Süresi
+ReligionConversionProgress = Din Değiştirme İlerlemesi
 DifferentReligion = Farklı Din
-DemandReligionConversion = Din Dönüşümü Talep Edin
+DemandReligionConversion = Din Değiştirme Talep Edin
 
 NonCoreProvince = Merkeze Bağlanmayan Vilayet
 
-BattlePosition = Savaş pozisyonu
+BattlePosition = Muharebe pozisyonu
 
 # ARMY LINES IN BATTLE
 FirstLine = Ön Hat
@@ -148,35 +148,35 @@ SecondLine = İkinci Hat
 Support = Destek
 ThirdLine = Üçüncü Hat
 
-FirstLineArmyRecruitmentCost = Birinci Hat Ordusu İşe Alım Maliyeti
-SecondLineArmyRecruitmentCost = İkinci Hat Ordusu İşe Alım Maliyeti
+FirstLineArmyRecruitmentCost = Birinci Hat Ordusu Askere Alım Maliyeti
+SecondLineArmyRecruitmentCost = İkinci Hat Ordusu Askere Alım Maliyeti
 
-BattleWidth = Savaş genişliği
-Battles = Savaşlar
+BattleWidth = Muharebe genişliği
+Battles = Muharebeler
 ArmyDeployment = Ordu konuşlandırması
 CasualtiesOfThePreviousDay = Önceki günkü kayıplar
 ArmyIsFightingInABattle = Ordu bir muharebede savaşıyor
 
-BattleWon = Savaş Kazanıldı
-BattleLost = Savaş Kaybedildi
+BattleWon = Muharebe Kazanıldı
+BattleLost = Muharebe Kaybedildi
 
 NeighboringCivilizationWonWar = Komşu Medeniyet Savaşı Kazandı
 
-NumberOfUnitsOnTheBattlefield = Savaş alanındaki birim sayısı
+NumberOfUnitsOnTheBattlefield = Muharebe alanındaki birim sayısı
 Reserve = Rezerv
 UnitsInReserve = Rezerve birimler
-UnitsThatHaventBeenDeployedOnTheNattlefieldDueToTheCompleteOccupationOfAvailableSpace = Mevcut alanın tamamen işgal edilmesi nedeniyle savaş alanında konuşlandırılmayan birimler.
+UnitsThatHaventBeenDeployedOnTheNattlefieldDueToTheCompleteOccupationOfAvailableSpace = Yeterli yer olmaması nedeniyle muharebe alanına konuşlandırılamayan birimler.
 
-BattleWidthRefersToTheNumberOfUnitsThatCanBeDeployedInAFormationOnTheBattlefield = Savaş genişliği, savaş alanındaki bir oluşumda konuşlandırılabilecek birimlerin sayısını ifade eder.
+BattleWidthRefersToTheNumberOfUnitsThatCanBeDeployedInAFormationOnTheBattlefield = Muharebe genişliği, Muharebe alanındaki bir oluşumda konuşlandırılabilecek birimlerin sayısını ifade eder.
 
 Discipline = Disiplin
 DisciplineSignifiesOrganizationAndCoordinationOfTheArmyInBattleIncreasingUnitsAttack = Disiplin, savaşta ordunun organizasyonunu ve koordinasyonunu, birimlerin saldırısını artırmayı ifade eder.
 
-ManpowerRecoveryFromADisbandedArmy = Dağılmış bir ordudan insan gücü geri kazanımı
+ManpowerRecoveryFromADisbandedArmy = Ordu dağıttımında elde edilecek insan gücü miktarı
 
 WaitingForOrders = Emir bekliyorum
 Moving = Hareket et
-MovingTo = Taşın
+MovingTo = Gidiyor
 StopMovementOfTheArmy = Ordunun hareketini durdur
 
 Mercenaries = Paralı askerler
@@ -191,7 +191,7 @@ Composition = Birleştir
 ProvinceInWhichTheArmyWillBeStationed = Ordunun konuşlandırılacağı bölge
 
 BattleTactics = Savaş Taktikleri
-BattleTacticsDesc = Savaş sırasında silahlı kuvvetler tarafından düşmanı alt etmek ve savaş alanında avantaj elde etmek için kullanılan stratejik yöntemler ve manevralar.
+BattleTacticsDesc = Savaş sırasında silahlı kuvvetler tarafından düşmanı alt etmek ve Muharebe alanında avantaj elde etmek için kullanılan stratejik yöntemler ve manevralar.
 
 CarefulAdvance = Tedbirli İlerle
 DefensiveHold = Savunmada Bekle
@@ -294,7 +294,7 @@ SelectArmy = Orduyu Seç
 
 MilitaryAcademyForGenerals = Generaller için Harp Akademisi
 MilitaryAcademyForGeneralDesc = Üst düzey askeri generalleri; ileri düzey liderlik, strateji ve taktikler konusunda eğitir.
-UpgradeMilitaryAcademyForGenerals = Generaller için Askeri Akademiyi Yükselt
+UpgradeMilitaryAcademyForGenerals = Generaller için Harp Akademisini Yükselt
 AllGenerals = Tüm Generaller
 
 MilitaryAcademyForGeneralsMaximumLevel = Harp Akademisi Generaller için Maksimum Seviyede
@@ -303,13 +303,13 @@ MaximumLevel = Maksimum Seviye
 
 SupremeCourt = Yüksek Mahkeme
 MaximumLevelOfTheSupremeCourt = Yüksek Mahkemenin Maksimum Seviyesi
-UpgradeSupremeCourt = Yüksek Mahkemeyi Yükseltin
+UpgradeSupremeCourt = Yüksek Mahkemeyi Yükselt
 UpgradeTheSupremeCourtLevelToReduceCorruption = Yolsuzluğu azaltmak için Yüksek Mahkeme seviyesini yükseltin
 
 CorruptionPerLevel = Seviye başına Yolsuzluk
 
 MaximumLevelOfTheNuclearReactor = Nükleer Reaktörün Maksimum Seviyesi
-UpgradeNuclearReactor = Nükleer Reaktörü Yükseltin
+UpgradeNuclearReactor = Nükleer Reaktörü Yükselt
 
 CapitalCity = Başkent
 UpgradeCapitalCity = Başkenti Yükselt
@@ -337,11 +337,11 @@ GeneralsDefense = Generallerin Savunması
 GeneralsAttackPerLevel = Seviye Başına General Saldırısı
 GeneralsDefensePerLevel = Seviyeye Başına General Savunması
 
-MilitaryAcademy = Harp Akademisi
-MilitaryAcademyDesc = Harp Akademisi; birimleri savaş, taktik ve strateji konularında eğitir.
+MilitaryAcademy = Harp Okulu
+MilitaryAcademyDesc = Harp Okulu; birimleri savaş, taktik ve strateji konularında eğitir.
 MaximumLevelOfTheMilitaryAcademy = Harp Okulunun Maksimum Seviyesi
 
-UpgradeMilitaryAcademy = Harp Akademiyi Yükselt
+UpgradeMilitaryAcademy = Harp Okulunu Yükselt
 
 UnitsDefense = Birim Savunması
 UnitsAttack = Birim Saldırısı
@@ -353,50 +353,50 @@ Siege = Kuşatma
 SiegeProgress = Kuşatma İlerlemesi
 SiegeEffectiveness = Kuşatma Etkinliği
 DailySiegeProgress = Günlük Kuşatma İlerlemesi
-AfterASuccessfulSiegeAllNeighboringProvincesWithoutDefensiveBuildingsWillBeOccupied = After a successful siege, Civilization will loot province and all neighboring provinces without Defensive buildings will be occupied. This reflects the strategic importance of forts and the domino effect a successful siege can have on a region.
-SiegeOf = Siege of {0}
-MaximumSiegeTime = Maximum siege time
-BesiegingSoldiers = Besieging Soldiers
-ArmyBesiegesProvince = Army Besieges Province
+AfterASuccessfulSiegeAllNeighboringProvincesWithoutDefensiveBuildingsWillBeOccupied = Başarılı bir kuşatmanın ardından Medeniyet eyaleti yağmalayacak ve Savunma binaları olmayan tüm komşu eyaletler işgal edilecek. Bu, kalelerin stratejik önemini ve başarılı bir kuşatmanın bölgede yaratabileceği domino etkisini yansıtıyor.
+SiegeOf = {0} Kuşatması
+MaximumSiegeTime = Maksimum Kuşatma Süresi
+BesiegingSoldiers = Kuşatan Askerler
+ArmyBesiegesProvince = Ordu Vilayeti Kuşatıyor
 
-TheSiegeEndsWhenTheProgressReachesTheProvincesDefense = The Siege ends when the progress reaches the Province's Defense.
-DailySiegeProgressIsTheSumOfTheSiegeAbilitiesOfAllUnitsInvolvedInTheSiege = Daily Siege Progress is the sum of the Siege Abilities of all units involved in the Siege.
-SiegeAbility = Siege Ability
+TheSiegeEndsWhenTheProgressReachesTheProvincesDefense = Kuşatma, ilerleme Bölgenin Savunmasına ulaştığında sona erer.
+DailySiegeProgressIsTheSumOfTheSiegeAbilitiesOfAllUnitsInvolvedInTheSiege = Günlük Kuşatma İlerlemesi, kuşatmaya katılan tüm birimlerin Kuşatma Yeteneklerinin toplamıdır.
+SiegeAbility = Kuşatma Yeteneği
 
-SiegeWon = Siege Won
-SiegeLost = Siege Lost
-UnderSiege = Under Siege
+SiegeWon = Kuşatma Kazanıldı
+SiegeLost = Kuşatma Kaybedildi
+UnderSiege = Kuşatma Altında
 
-DefenseLevel = Defense Level
-ProvinceDefense = Province Defense
-ProvincesWithoutForts = Provinces without Forts
+DefenseLevel = Savunma Seviyesi
+ProvinceDefense = Vilayet Savunması
+ProvincesWithoutForts = Kalesiz Vilayetler
 
-ImproveRelationsModifier = Improve Relations
-IncomeFromVassals = Income From Vassals
+ImproveRelationsModifier = İlişkileri Geliştir
+IncomeFromVassals = Vasallardan Elde Edilen Gelir
 
-LoanInterest = Loan Interest
-ALoanHasBeenTaken = A Loan has been taken
+LoanInterest = Borç Faizi
+ALoanHasBeenTaken = Bir Borç Alındı
 
-MaxNumOfAlliances = Maximum Number of Alliances
-AggressiveExpansion = Aggressive Expansion
+MaxNumOfAlliances = İttifakların Maksimum Sayısı
+AggressiveExpansion = Agresif Genişleme
 
-Manpower = Manpower
-LocalManpower = Local Manpower
-LocalManpowerLevel = Local Manpower Level
+Manpower = İşgücü
+LocalManpower = Yerel İşgücü
+LocalManpowerLevel = Yerel İşgücü Seviyesi
 
-ClickToIncreaseManpower = Click to Increase Manpower
-IncreaseManpowerCost = Increase Manpower Cost
-IncreaseManpower = Increase Manpower
-IncreasedManpower = Increased Manpower
+ClickToIncreaseManpower = İşgücünü Artırmak İçin Tıkla
+IncreaseManpowerCost = İşgücü Maliyetini Artır
+IncreaseManpower = İşgücünü Artır
+IncreasedManpower = İşgücünü Artırıldı
 
-TipForBestResultsIncreaseManpowerInProvincesWithHighestGrowthRateOfPopulation = Tip: For best results, Increase Manpower in provinces with highest Growth Rate of Population.
+TipForBestResultsIncreaseManpowerInProvincesWithHighestGrowthRateOfPopulation = İpucu: En iyi sonuçları elde etmek için Nüfus Artış Hızının en yüksek olduğu illerde İşgücünü Artırın.
 
-MaximumManpower = Maximum Manpower
-ManpowerRecoverySpeed = Manpower Recovery Speed
-ManpowerPerMonth = Manpower per Month
+MaximumManpower = Maksimum İşgücü
+ManpowerRecoverySpeed = İşgücü Toparlama Hızı
+ManpowerPerMonth = Aylık İşgücü
 
-MoveToFrontLine = Move To Front Line
-ClickOnAnyBorderProvinceOfYourCivilizationToDeployArmyAcrossTheEntireBorder = Click on any border province of your Civilization to deploy army across the entire border.
+MoveToFrontLine = Ön Cepheye Taşı
+ClickOnAnyBorderProvinceOfYourCivilizationToDeployArmyAcrossTheEntireBorder = Tüm medeniyet sınırına asker koymak için herhangi bir sınır vilayetine tıkla.
 
 RegroupArmies = Regroup Armies
 LeftClickAndDrag = Left click and drag
