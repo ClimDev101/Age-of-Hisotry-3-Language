@@ -387,7 +387,7 @@ LocalManpowerLevel = Yerel İşgücü Seviyesi
 ClickToIncreaseManpower = İşgücünü Artırmak İçin Tıkla
 IncreaseManpowerCost = İşgücü Maliyetini Artır
 IncreaseManpower = İşgücünü Artır
-IncreasedManpower = İşgücünü Artırıldı
+IncreasedManpower = İşgücü Artırıldı
 
 TipForBestResultsIncreaseManpowerInProvincesWithHighestGrowthRateOfPopulation = İpucu: En iyi sonuçları elde etmek için Nüfus Artış Hızının en yüksek olduğu illerde İşgücünü Artırın.
 
@@ -398,12 +398,12 @@ ManpowerPerMonth = Aylık İşgücü
 MoveToFrontLine = Ön Cepheye Taşı
 ClickOnAnyBorderProvinceOfYourCivilizationToDeployArmyAcrossTheEntireBorder = Tüm medeniyet sınırına asker koymak için herhangi bir sınır vilayetine tıkla.
 
-RegroupArmies = Regroup Armies
-LeftClickAndDrag = Left click and drag
-DrawALineForRegroupingTheArmy = Draw a line for Regrouping the Army
+RegroupArmies = Orduları Yeniden Gruplandır
+LeftClickAndDrag = Sol tıklayarak sürükle
+DrawALineForRegroupingTheArmy = Ordunun Yeniden Gruplandırılması için bir çizgi çiz
 
-MoveTheArmies = Move the Armies
-SelectProvincesToWhichYouWantToMoveArmies = Select provinces to which you want to Move Armies
+MoveTheArmies = Orduları Harekete Geçir
+SelectProvincesToWhichYouWantToMoveArmies = Orduları Taşımak İstediğiniz Vilayetleri Seçin
 SelectMoreThanOneArmy = Select more than one Army
 
 Clear = Clear
@@ -1330,229 +1330,229 @@ Technology1 = Research points can be increased by constructing special buildings
 Advisor0 = Civilization can hire Advisors in council, each providing unique bonuses that can be upgraded by promoting the Advisor to a higher level for increased effectiveness.
 
 Corruption0 = Every Civilization in the game is affected by a baseline level of corruption, which acts as a percentage reduction on all provincial income.
-Corruption1 = Civilization have the option to combat corruption by upgrading the level of the Supreme Court in their civilization.
+Corruption1 = Medeniyet, kendi medeniyetindeki Yüksek Mahkemenin seviyesini yükselterek yolsuzlukla mücadele etme seçeneğine sahiptir.
 
 # Events
-capital_city_economic_development.t = Capital City Economic Development
-capital_city_economic_development.d = The economic future of your capital city hangs in the balance. Will you allocate resources to foster economic growth, or maintain the status quo?
-InvestInCapitalGrowth = Invest in Capital Growth
-MaintainStatusQuo = Maintain Status Quo
+capital_city_economic_development.t = Başkentin Ekonomik Kalkınması
+capital_city_economic_development.d = Başkentinizin ekonomik geleceği tehlikede. Kaynakları ekonomik büyümeyi teşvik etmek için mi tahsis edeceksiniz, yoksa mevcut durumu sürdürmek için mi?
+InvestInCapitalGrowth = Sermaye Artışına Yatırım Yap
+MaintainStatusQuo = Statükoyu Koru
 
-Excellent = Excellent!
-
-
-economys_golden_milestone.t = Economy's Golden Milestone
-economys_golden_milestone.m = Revitalize your Civilization's economy by strategic investments to reach a new era of prosperity.
-economys_golden_milestone.d = By strategically investing in key sectors, you have successfully revitalized your Civilization's economy.
-GoodNews = Good News!
-EconomicTriumph = Economic Triumph!
-
-rising_cost_of_construction.t = Rising Cost of Construction
-rising_cost_of_construction.d = The lack of enough skilled workers and craftsmen, combined with the effects of wars and diseases, leads to an increase in the cost of construction.
-OfferSubsidiesForConstruction = Offer Subsidies for Construction
-
-military_mobilization_crisis.t = Military Mobilization Crisis
-military_mobilization_crisis.d = Due to increasing regional tensions and potential threats, there is a pressing need to bolster the armed forces. However, this sudden demand for a larger military is causing controversy and unrest among the populace.
-
-MaintainCurrentRecruitmentStrategy = Maintain Current Recruitment Strategy
-CallToArms = Call to Arms!
-
-the_council_of_many.t = The Council of Many
-the_council_of_many.m = Recruit advisors to build over time a council rich in knowledge and experience.
-the_council_of_many.d = Your Civilization has seen a significant increase in the number of advisors who have worked in the council, creating an opportunity to promote our advisors to even higher levels of expertise.
-GreatNews = Great News!
-
-remarkable_talent.t = A Remarkable Talent - Administrative Advisor
-remarkable_talent2.t = A Remarkable Talent - Economic Advisor
-remarkable_talent3.t = A Remarkable Talent - Innovation Advisor
-remarkable_talent4.t = A Remarkable Talent - Military Advisor
-remarkable_talent.d = Noteworthy development has occurred within our council. Our Advisor, renowned for their exceptional skills and innovative methods, has reached a level of expertise surpassing expectations.
-LaunchAmbitiousReforms = Launch Ambitious Reforms
-
-an_unprecedented_harvest.t = An Unprecedented Harvest
-an_unprecedented_harvest.d = This year, our lands have witnessed a harvest like no other. Our fields have given us an incredible amount of crops, more than we ever expected, filling up all our storage spaces to the top.
-
-age_of_craftsmanship.t = Age of Craftsmanship
-age_of_craftsmanship.d = Our Civilization is experiencing a golden age of craftsmanship, with skilled artisans creating exceptional goods that enhance our cultural prestige.
-RemarkableAchievement = Remarkable Achievement!
+Excellent = Harika!
 
 
-gold_surplus_dilemma.t = The Gold Surplus Dilemma
-gold_surplus_dilemma.d = A rare and remarkable situation has arisen in our Civilization, our treasury is brimming with gold, surpassing its maximum capacity. This unexpected surplus of wealth is a testament to our prosperous economy and efficient governance.
-StoreAndSecure = Store and Secure
+economys_golden_milestone.t = Ekonominin Altın Kilometre Taşı
+economys_golden_milestone.m = Yeni bir refah çağına ulaşmak için uygarlığınızın ekonomisini stratejik yatırımlarla canlandırın.
+economys_golden_milestone.d = Kilit sektörlere stratejik yatırım yaparak Medeniyetimizin ekonomisini başarılı bir şekilde canlandırdınız.
+GoodNews = Güzel haberler!
+EconomicTriumph = Ekonomik Zafer!
 
-invest_in_the_capital.t = Invest in the Capital
-invest_in_the_capital.d = The prosperity of our capital is crucial to the strength and influence of our Civilization. Recognizing its potential, we now face a vital decision to invest in its economic growth and infrastructure.
-LimitedInvestment = Limited Investment
-MaintainCurrentCourse = Maintain Current Course
+rising_cost_of_construction.t = Artan İnşaat Maliyeti
+rising_cost_of_construction.d = Yeterli vasıflı işçi ve zanaatkarın bulunmaması, savaşların ve hastalıkların etkisiyle birleşince inşaat maliyetlerinin artmasına neden oluyor.
+OfferSubsidiesForConstruction = İnşaatları Sübvanse Et.
 
-the_great_city_fire.t = The Great City Fire
-the_great_city_fire.d = A devastating fire has swept through sections of our city, endangering its inhabitants and the historic buildings that symbolize our past.
-AcceptTheInevitable = Accept the Inevitable
+military_mobilization_crisis.t = Askeri Seferberlik Krizi
+military_mobilization_crisis.d = Artan bölgesel gerilimler ve potansiyel tehditler nedeniyle silahlı kuvvetlerin güçlendirilmesine acil bir ihtiyaç var. Ancak daha büyük bir orduya yönelik bu ani talep, halk arasında tartışmalara ve huzursuzluğa neden oluyor.
 
-expanding_the_battle_front.t = Expanding the Battle Front
-expanding_the_battle_front.d = Our military strategists have made a groundbreaking achievement, expanding our army's battle width to a remarkable scale. This marks a new era in our military capabilities, signifying a shift towards more sophisticated and formidable battle formations.
-Excellent = Excellent
+MaintainCurrentRecruitmentStrategy = Mevcut Askere Alım Stratejisini Sürdürün
+CallToArms = Orduya Çağır!
 
-reformation_of_the_army.t = Reformation of the Army
-reformation_of_the_army.d = Our Civilization is at the brink of a significant military transformation. The time has come to reform our army, shifting from traditional methods to more modernized tactics and organization.
-reformation_of_the_army.m = Upgrade your Military Academy, demonstrating your commitment to advanced military training and strategy.
+the_council_of_many.t = Çoğunluğun Meclisi
+the_council_of_many.m = Zamanla bilgi ve deneyim açısından zengin bir meclis oluşturmak için danışmanları işe alın.
+the_council_of_many.d = Medeniyetimiz, mecliste çalışan danışmanların sayısında önemli bir artış gördü ve bu, danışmanlarımızı daha da yüksek uzmanlık seviyelerine yükseltme fırsatı yarattı.
+GreatNews = Harika haber!
 
-army_expansion.t = Army Expansion
-army_expansion.d = Forming this huge army brings a sense of pride and safety to our people, strengthening overall national morale and unity.
+remarkable_talent.t = Dikkate Değer Bir Yetenek - İdari Danışman
+remarkable_talent2.t = Dikkate Değer Bir Yetenek - Ekonomi Danışmanı
+remarkable_talent3.t = Dikkate Değer Bir Yetenek - İnovasyon Danışmanı
+remarkable_talent4.t = Dikkate Değer Bir Yetenek - Askeri Danışman
+remarkable_talent.d = Meclisimizde dikkat çekici bir gelişme yaşandı. Olağanüstü becerileri ve yenilikçi yöntemleriyle tanınan Danışmanımız, beklentileri aşan bir uzmanlık seviyesine ulaştı.
+LaunchAmbitiousReforms = İddialı Islahatları Başlatın
 
-famous_vintage.t = Famous Vintage
-famous_vintage.d = A recent vintage from our renowned wine region, celebrated by experts for its exceptional quality, has delighted our citizens and enhanced our reputation as a producer of fine wines.
-AToastToOurLands = A Toast to Our Lands!
+an_unprecedented_harvest.t = Eşi benzeri görülmemiş bir hasat
+an_unprecedented_harvest.d = Bu yıl topraklarımız eşi benzeri olmayan bir hasada sahne oldu. Tarlalarımız bize inanılmaz miktarda, beklediğimizden daha fazla mahsul verdi ve tüm depolama alanlarımızı ağzına kadar doldurdu.
 
-rich_harvest.t = Rich Harvest
-rich_harvest.d = This season, our farms are experiencing an extraordinary yield. The abundance of crops is not only ensuring ample food for our people but also significantly boosting our population growth rate.
+age_of_craftsmanship.t = Zanaatkarlık Çağı
+age_of_craftsmanship.d = Medeniyetimiz, yetenekli zanaatkarların kültürel prestijimizi artıran olağanüstü ürünler yarattığı bir zanaatkarlık altın çağını yaşıyor.
+RemarkableAchievement = Olağanüstü başarı!
 
-clothing_revolution.t = Clothing Revolution
-clothing_revolution.d = Recent surge in the quality of clothes produced within our Civilization has unexpectedly and lucratively increased our profits.
 
-agricultural_breakthrough.t = Agricultural Breakthrough
-agricultural_breakthrough.d = In a remarkable advancement, we have successfully revolutionized agriculture throughout our provinces.
-ExpandMilitaryForces = Expand Military Forces
-BoostPopulationGrowth = Boost Population Growth
+gold_surplus_dilemma.t = Altın Fazlası İkilemi
+gold_surplus_dilemma.d = Medeniyetimizde ender ve dikkat çekici bir durum ortaya çıktı; hazinemiz maksimum kapasitesini aşarak altınla dolup taşıyor. Bu beklenmedik zenginlik fazlası, müreffeh ekonomimizin ve etkili yönetimimizin bir kanıtıdır.
+StoreAndSecure = Sakla ve Güvenli Hale Getirin
 
-gold_rush.t = Gold Rush
-gold_rush.d = Our miners have discovered a huge gold deposit, significantly increasing our treasury.
+invest_in_the_capital.t = Sermayeye Yatırım Yapılmalı
+invest_in_the_capital.d = Sermayemizin refahı Medeniyetimizin gücü ve nüfuzu açısından çok önemlidir. Potansiyelinin farkına vararak, şimdi ekonomik büyümesine ve altyapısına yatırım yapma konusunda hayati bir kararla karşı karşıyayız.
+LimitedInvestment = Sınırlı Yatırım
+MaintainCurrentCourse = Mevcut Rotayı Sürdür
 
-quality_furniture.t = Quality Furniture
-quality_furniture.d = Our furniture production has recently seen a significant leap in quality. Artisans and woodworkers have outdone themselves, crafting pieces that combine functionality with exceptional artistry.
+the_great_city_fire.t = Büyük Şehir Yangını
+the_great_city_fire.d = Yıkıcı bir yangın şehrimizin bazı bölümlerini kasıp kavurdu, sakinlerini ve geçmişimizi simgeleyen tarihi binaları tehlikeye attı.
+AcceptTheInevitable = Kaçınılmaz olanı kabul edin
 
-fruit_mania.t = Fruit Mania
-fruit_mania.d = In a surprising turn of events, our Civilization has discovered a mysterious variety of Fruit, rumored to have unique attributes like exceptional taste and unusual sizes, sparking widespread excitement and attracting people from all over to witness this remarkable find.
+expanding_the_battle_front.t = Muharebe Cephesinde Genişleme
+expanding_the_battle_front.d = Askeri strateji uzmanlarımız, ordumuzun muharebe genişliğini dikkate değer bir ölçeğe genişleterek çığır açıcı bir başarı elde etti. Bu, askeri yeteneklerimizde yeni bir döneme işaret ediyor ve daha sofistike ve zorlu savaş oluşumlarına doğru bir geçişe işaret ediyor.
+Excellent = Harika
 
-beer_production_soars.t = Beer Production Soars
-beer_production_soars.d = A groundbreaking innovation in brewing techniques has revolutionized our beer production, leading to an unexpected and significant increase in output.
+reformation_of_the_army.t = Ordunun Islahatı
+reformation_of_the_army.d = Medeniyetimiz önemli bir askeri dönüşümün eşiğindedir. Geleneksel yöntemlerden daha modern taktiklere ve organizasyona geçerek ordumuzu reforme etmenin zamanı geldi.
+reformation_of_the_army.m = Gelişmiş askeri eğitim ve stratejiye olan bağlılığınızı göstererek Askeri Okulunuzu yükseltin.
 
-the_sieges_end.t = The Siege's End
-the_sieges_end.d = After a victorious siege, we face a choice for the conquered city: either burn and loot it for immediate gain but risk future hostility, or show mercy and maintain order.
-ShowMercy = Show Mercy
-BurnAndLoot = Burn and Loot
+army_expansion.t = Ordu Genişlemesi
+army_expansion.d = Bu dev orduyu oluşturmak, halkımıza gurur ve emniyet duygusu kazandırmakta, milli moral ve birliğimizi güçlendirmektedir.
 
-military_expansion.t = Military Expansion
-military_expansion.m = Increase armed forces to the regiment limit to strengthen your international standing and effectively project power, securing your Civilization's interests.
-military_expansion.d = By reaching our regiment limit, we can effectively project power, defend our interests, and stimulate economic activity through military spending and development.
+famous_vintage.t = Ünlü Bağ Bozumu
+famous_vintage.d = Ünlü şarap bölgemizden uzmanlar tarafından olağanüstü kalitesiyle kutlanan yeni bir bağ bozumu, vatandaşlarımızı memnun etti ve kaliteli şarap üreticisi olarak itibarımızı artırdı.
+AToastToOurLands = Topraklarımıza kadeh kaldırıyoruz!
 
-the_capitals_transformation.t = The Capital's Transformation
-the_capitals_transformation.m = Construct new buildings in the capital province to contribute to its revival and improvement.
-the_capitals_transformation.d = Our capital province is on the verge of a significant transformation, with new buildings set to revitalize the city and reinforce its importance.
+rich_harvest.t = Zengin Hasat
+rich_harvest.d = Bu sezon çiftliklerimizde olağanüstü bir verim yaşanıyor. Mahsullerin bolluğu, yalnızca insanlarımıza bol miktarda yiyecek sağlamakla kalmıyor, aynı zamanda nüfus artış hızımızı da önemli ölçüde artırıyor.
 
-sudden_death_of_advisor.t = Sudden death of Economic Advisor
-sudden_death_of_advisor.d = Tragedy strikes at the heart of our leadership as one of our key advisors unexpectedly passes away.
+clothing_revolution.t = Giyim Devrimi
+clothing_revolution.d = Medeniyetimizde üretilen giysilerin kalitesindeki son artış sayesinde karımızı beklenmedik ve kazançlı bir şekilde artı.
 
-maximizing_tax_efficiency.t = Maximizing Tax Efficiency
-maximizing_tax_efficiency.m = In an effort to optimize our financial health, we face the opportunity to increase tax efficiency in our provinces. 
-maximizing_tax_efficiency.d = It's time to refine our provincial taxation approach, where adopting innovative strategies and enhancing efficiency can notably increase our taxation revenue.
+agricultural_breakthrough.t = Tarımsal Atılım
+agricultural_breakthrough.d = Dikkate değer bir ilerleme kaydederek, vilayetlerimizde tarımda başarılı bir devrim gerçekleştirdik.
+ExpandMilitaryForces = Askeri Kuvvetleri Genişlet
+BoostPopulationGrowth = Nüfus Artışını Artır
 
-advisors_research_breakthrough.t = Advisor's Research Breakthrough
-advisors_research_breakthrough.m = Promote an Advisor to increase his impact on the advancement of our Civilization.
-advisors_research_breakthrough.d = One of our advisors has achieved a remarkable level of skill, significantly boosting our research efforts.
-ResearchAcceleration = Research Acceleration
-StrengthenOurLegacy = Strengthen Our Legacy
+gold_rush.t = Altına Hücum
+gold_rush.d = Madencilerimiz hazinemizi önemli ölçüde artıran devasa bir altın yatağı keşfetti.
 
-prosperous_times.t = Prosperous Times
-prosperous_times.d = Our civilization is currently experiencing an unprecedented era of prosperity. This Golden Age is marked by a booming economy and increased trade.
+quality_furniture.t = Kaliteli Mobilya
+quality_furniture.d = Mobilya üretimimizde son dönemde kalite açısından önemli bir sıçrama yaşandı. Zanaatkarlar ve ahşap işçileri, işlevselliği olağanüstü sanat eseriyle birleştiren parçalar üreterek kendilerini aştılar.
 
-boost_in_production_efficiency.t = Boost in Production Efficiency
-boost_in_production_efficiency.d = Our economy is experiencing a major improvement in efficiency thanks to new, innovative methods. This change is increasing our productivity and making better use of our resources, which is strengthening our overall economic health.
+fruit_mania.t = Meyve Çılgınlığı
+fruit_mania.d = Şaşırtıcı bir olay akışında, Medeniyetimiz, olağanüstü tat ve olağandışı boyutlar gibi benzersiz niteliklere sahip olduğu söylenen, yaygın bir heyecan uyandıran ve her yerden insanları bu olağanüstü buluntuya tanık olmaya çeken gizemli bir Meyve çeşidi keşfetti.
 
-breakthrough_in_construction.t = Breakthrough in Construction
-breakthrough_in_construction.d = Our Civilization has entered a phase where construction costs have unexpectedly dropped, thanks to economic factors and advancements in building technology.
+beer_production_soars.t = Bira Üretimi Artıyor
+beer_production_soars.d = Bira üretim tekniklerinde çığır açan bir yenilik, bira üretimimizde devrim yarattı ve üretimde beklenmedik ve önemli bir artışa yol açtı.
 
-Success = Success
-Interesting = Interesting
-Amazing = Amazing
-OhYes = Oh Yes
-OhNo = Oh No
+the_sieges_end.t = Kuşatmanın Sonu
+the_sieges_end.d = Zaferle sonuçlanan bir kuşatmanın ardından, fethedilen şehir için bir seçimle karşı karşıyayız: ya hemen kazanç elde etmek için şehri yakıp yağmalayın, ancak gelecekteki düşmanlığı riske atın ya da merhamet gösterip düzeni sağlayın.
+ShowMercy = Merhamet Göster
+BurnAndLoot = Yak ve Yağmala
 
-TodayIsAGreatDay = Today is a great day
-ThisIsAGoodDay = This is a good day
-ThisIsASadDay = This is a sad day
-ThatIsGoodNews = That is good news
-SpendMoney = Spend Money
-SpendGold = Spend Gold
+military_expansion.t = Askeri Genişleme
+military_expansion.m = Uluslararası duruşunuzu güçlendirmek ve gücümüzü etkili bir şekilde yansıtarak Medeniyetimizin çıkarlarını güvence altına almak için silahlı kuvvetleri alay sınırına kadar artır.
+military_expansion.d = Alay sınırımıza ulaşarak; etkili bir şekilde gücümüzü yansıtabilir, çıkarlarımızı savunabilir, askeri harcamalar ve kalkınma yoluyla ekonomik faaliyeti teşvik edebiliriz.
+
+the_capitals_transformation.t = Başkentin Dönüşümü
+the_capitals_transformation.m = Başkentin yeniden canlanmasına ve gelişmesine katkıda bulunmak için yeni binalar inşa edin.
+the_capitals_transformation.d = Başkentimiz, şehri canlandıracak ve önemini pekiştirecek yeni binalarla önemli bir dönüşümün eşiğinde.
+
+sudden_death_of_advisor.t = Ekonomi Danışmanının ani ölümü
+sudden_death_of_advisor.d = Kilit danışmanlarımızdan birinin beklenmedik bir şekilde vefat etmesiyle trajedi liderliğimizin kalbine çarpıyor.
+
+maximizing_tax_efficiency.t = Vergi Verimliliğinin Maksimuma Çıkarılması
+maximizing_tax_efficiency.m = Mali sağlığımızı optimize etmek amacıyla vilayetlerimizde vergi verimliliğini artırma fırsatıyla karşı karşıyayız. 
+maximizing_tax_efficiency.d = Yenilikçi stratejiler benimsemenin ve verimliliği artırmanın vergi gelirimizi önemli ölçüde artırabileceği vilayet vergilendirme yaklaşımımızı iyileştirmenin zamanı geldi.
+
+advisors_research_breakthrough.t = Danışmanın Araştırma Atılımı
+advisors_research_breakthrough.m = Medeniyetimizin ilerlemesi üzerindeki etkisini artırmak için bir Danışmanı terfi ettir.
+advisors_research_breakthrough.d = Danışmanlarımızdan biri dikkate değer bir yetenek seviyesine ulaştı ve araştırma çabalarımızı önemli ölçüde artırdı.
+ResearchAcceleration = Araştırma Hızlandırma
+StrengthenOurLegacy = Mirasımızı Güçlendir
+
+prosperous_times.t = Müreffeh Zamanlar
+prosperous_times.d = Medeniyetimiz şu anda benzeri görülmemiş bir refah çağını yaşıyor. Bu Altın Çağ, gelişen bir ekonomi ve artan ticaretle işaretlenmiştir.
+
+boost_in_production_efficiency.t = Üretim Verimliliğinde Artış
+boost_in_production_efficiency.d = Yeni, yenilikçi yöntemler sayesinde ekonomimizde büyük bir verimlilik artışı yaşanıyor. Bu değişim verimliliğimizi artırıyor ve kaynaklarımızı daha iyi kullanmamızı sağlıyor, bu da genel ekonomik sağlığımızı güçlendiriyor.
+
+breakthrough_in_construction.t = İnşaatta Atılım
+breakthrough_in_construction.d = Medeniyetimiz, ekonomik faktörler ve yapı teknolojisindeki ilerlemeler sayesinde inşaat maliyetlerinin beklenmedik bir şekilde düştüğü bir aşamaya girmiştir.
+
+Success = Başarı
+Interesting = İlginç
+Amazing = İnanılmaz
+OhYes = Ah Evet
+OhNo = Ah Hayır
+
+TodayIsAGreatDay = Bugün Mükemmel bir gün
+ThisIsAGoodDay = Bu güzel bir gün
+ThisIsASadDay = Bu üzücü bir gün
+ThatIsGoodNews = Bu güzel haber
+SpendMoney = Para Harca
+SpendGold = Altın Harca
 SoundsLikeAGreatDeal = Sounds like a great deal
 
-Decline = Decline
+Decline = Reddet
 
-ProvinceBorder = Province Border
-SettingsProvinceBorder = Settings Province Border
-DoubleBorder = Double Border
-ProvinceNames = Province Names
-ProvinceNamesMinScale = Province Names min Scale
-Clouds = Clouds
+ProvinceBorder = Vilayet Sınırı
+SettingsProvinceBorder = Vilayet Sınırı Ayarları
+DoubleBorder = Çift Sınır
+ProvinceNames = Vilayet İsimleri
+ProvinceNamesMinScale = Vilayet İsimlerinin Minimum Ölçeği
+Clouds = Bulutlar
 
-VeryLow = Very Low
-VeryHigh = Very High
-On = On
+VeryLow = Çok Düşük
+VeryHigh = Çok Yüksek
+On = Açık
 
 
-PyramidsOfGiza = Pyramids of Giza
-TajMahal = Taj Mahal
-TempleOfConfucius = Temple of Confucius
-Tenochtitlan = Tenochtitlan
-ForbiddenCity = Forbidden City
+PyramidsOfGiza = Giza piramitleri
+TajMahal = Taç Mahal
+TempleOfConfucius = Konfüçyüs Tapınağı
+Tenochtitlan = Tenoktitlan
+ForbiddenCity = Yasak Şehir
 Tikal = Tikal
-WinterPalace = Winter Palace
-CologneCathedral = Cologne Cathedral
-MilanCathedral = Milan Cathedral
-MalborkCastle = Malbork Castle
-ChichenItza = Chichen Itza
-PalaceOfVersailles = Palace of Versailles
-WhiteHouse = White House
-AngkorWat = Angkor Wat
-HimejiCastle = Himeji Castle
-GreatLivingCholaTemples = Great Living Chola Temples
+WinterPalace = Kış sarayı
+CologneCathedral = Köln Katedrali
+MilanCathedral = Milano Katedrali
+MalborkCastle = Malbork Kalesi
+ChichenItza = Çiçen İtza
+PalaceOfVersailles = Versay Sarayı
+WhiteHouse = Beyaz Saray
+AngkorWat = Angkor Vat
+HimejiCastle = Himeji Kalesi
+GreatLivingCholaTemples = Büyük Yaşayan Chola Tapınakları
 ElEscorial = El Escorial
-Borobudur = Borobudur
-Kronborg = Kronborg
-Moai = Moai
-ArgeBam = Arg-e Bam
-Kremlin = Kremlin
-Parthenon = Parthenon
-VenetianArsenal = Venetian Arsenal
-Colosseum = Colosseum
-ShwedagonPagoda = Shwedagon Pagoda
+Borobudur = Borobudur Tapınağı
+Kronborg = Kronborg Kalesi
+Moai = Moai Heykelleri
+ArgeBam = Arg-ı Bem Kalesi
+Kremlin = Kremlin Sarayı
+Parthenon = Partenon Tapınağı
+VenetianArsenal = Venedik Tersanesi
+Colosseum = Kolezyum
+ShwedagonPagoda = Shwedagon Pagodası
 Bagan = Bagan
-Jokhang = Jokhang
+Jokhang = Jokhang Tapınağı
 Petra = Petra
-HagiaSophia = Hagia Sophia
-FortificationsOfMalta = Fortifications of Malta
-NaqsheJahanSquare = Naqsh-e Jahan Square
-Alhambra = Alhambra
-UniversityOfOxford = University of Oxford
-MachuPicchu = Machu Picchu
-RoyalPalaceOfCaserta = Royal Palace of Caserta
-GreatMosqueOfDjenne = Great Mosque of Djenné
-SankoreMadrasah = Sankore Madrasah
-EdinburghCastle = Edinburgh Castle
-MountRushmore = Mount Rushmore
+HagiaSophia = Aya Sofya
+FortificationsOfMalta = Malta Tahkimatları
+NaqsheJahanSquare = Nakş-ı Cihan Meydanı
+Alhambra = El Hamra Sarayı
+UniversityOfOxford = Oxford Üniversitesi
+MachuPicchu = Maçu Piçu
+RoyalPalaceOfCaserta = Caserta Kraliyet Sarayı
+GreatMosqueOfDjenne = Cenne Büyük Camii
+SankoreMadrasah = Sankore Medresesi
+EdinburghCastle = Edinburgh Kalesi
+MountRushmore = Rushmore Dağı Anıtı
 Hampi = Hampi
-Prambanan = Prambanan
-LibraryOfAlexandria = Library of Alexandria
-HangingGardensOfBabylon = Hanging Gardens of Babylon
-GreatWallOfChina = Great Wall of China
-ChristTheRedeemer = Christ the Redeemer
-TerracottaArmy = Terracotta Army
-StatueOfLiberty = Statue of Liberty
-WallsOfRagusa = Walls of Ragusa
-PalaceOfWestminster = Palace of Westminster
+Prambanan = Prambanan Tapınağı
+LibraryOfAlexandria = İskenderiye Kütüphanesi
+HangingGardensOfBabylon = Babil'in Asma Bahçeleri
+GreatWallOfChina = Çin Seddi
+ChristTheRedeemer = Kurtarıcı İsa Heykeli
+TerracottaArmy = Toprak Askerler
+StatueOfLiberty = Özgürlük Heykeli
+WallsOfRagusa = Ragusa Duvarları
+PalaceOfWestminster = Westminster Sarayı
 Narikala = Narikala
-BasilicaDiSanNicola = Basilica di San Nicola
-MontSaintMichel = Mont-Saint-Michel
-RoyalPalaceOfTurin = Royal Palace of Turin
-GyeongbokgungPalace = Gyeongbokgung Palace
-DeHaarCastle = De Haar Castle
+BasilicaDiSanNicola = San Nicola Bazilikası
+MontSaintMichel = Başmelek Mikâil Dağı
+RoyalPalaceOfTurin = Torino Kraliyet Sarayı
+GyeongbokgungPalace = Gyeongbokgung Sarayı
+DeHaarCastle = De Haar Kalesi
 Reichstag = Reichstag
-StVitusCathedral = St. Vitus Cathedral
-PalazzoPitti = Palazzo Pitti
-ChateaudeChambord = Chateau de Chambord
-RockOfGibraltar = Rock of Gibraltar
-BazaarOfTabriz = Bazaar of Tabriz
-WawelCastle = Wawel Castle
-ColossusOfRhodes = Colossus of Rhodes
-GreatMosqueOfMecca = Great Mosque of Mecca
+StVitusCathedral = Aziz Vitus Katedrali
+PalazzoPitti = Pitti Sarayı
+ChateaudeChambord = Chambord Şatosu
+RockOfGibraltar = Cebelitarık Kayası
+BazaarOfTabriz = Tebriz Çarşısı
+WawelCastle = Wawel Kalesi
+ColossusOfRhodes = Rodos Heykeli
+GreatMosqueOfMecca = Mekke Ulu Camii (Mescid-i Haram)
